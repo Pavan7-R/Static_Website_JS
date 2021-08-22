@@ -1,0 +1,87 @@
+.body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #205c99;
+}
+/* .box{
+  width: 400px;
+  padding: 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background: #bcc1d8;
+  text-align: center;
+  border-radius: 20px;
+}
+.box h1{
+  color: white;
+  text-transform: uppercase;
+  font-weight: 500;
+} */
+
+/* .box input[type = "text"]:focus,.box input[type = "password"]:focus{
+  width: 250px;
+  border-color: #2ecc71;
+} */
+.my-form input[type="text"], input[type = "password"] {
+  padding: 10px;
+  width: 100%;
+  display: block;
+  border-radius: 24px;
+  border: 2px solid #1882c8;
+  background:#aab9ff ;
+  text-align: center;
+  
+
+}
+.my-form input[type = "Password"]:hover{
+  background: #75a8e2;
+}
+
+.container-7{
+  padding: 100px;
+  border-radius: 10px;
+  margin: 10px;
+  text-align: justify;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  
+}
+.my-form{
+  padding: 40px;
+  border: 2px solid #aab9ff;
+  margin: 30px;
+  background-color: #aab9ff;
+  border-radius: 20px;
+  width: 400px;
+  padding: 40px;
+  margin-left: 40%;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  font-family: sans-serif;
+  
+}
+
+.my-form .form-group{
+  padding-bottom:10px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.button{
+  background-color:#aab9ff;
+  padding: 5px 5px;
+  color: #070707;
+  border: 2px solid #1882c8;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+.button:hover{
+  background-color: rgb(33, 100, 139);
+  color: #2ecc71;
+}
+
+

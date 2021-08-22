@@ -1,0 +1,110 @@
+
+.container-7{
+  padding: 100px;
+  border-radius: 10px;
+  margin: 10px;
+  text-align: justify;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  
+}
+.my-form{
+  padding: 40px;
+  border: 2px solid #aab9ff;
+  margin: 30px;
+  background-color: #aab9ff;
+  border-radius: 20px;
+  width: 400px;
+  padding: 40px;
+  margin-left: 40%;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  font-family: sans-serif;
+  
+}
+.my-form .img{
+  text-align: center;
+  border-radius: 5px;
+  
+}
+.my-form .form-group{
+  padding-bottom:10px;
+  padding: 10px;
+  border-radius: 20px;
+}
+.my-form label{
+  display: block;
+}
+
+.my-form input[type="text"],.my-form textarea {
+  padding: 10px;
+  width: 100%;
+  display: block;
+  border-radius: 24px;
+  border: 2px solid #1882c8;
+  background:#aab9ff ;
+  
+
+}
+.botton{
+  background-color:black;
+  padding: 10px 5px;
+  color: white;
+  border: none;
+}
+.botton:hover{
+  background-color: crimson;
+  color: #2ecc71;
+}
+.my-form input[type = "submit"]{
+  border:0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid #2ecc71;
+  padding: 14px 40px;
+  outline: none;
+  color: white;
+  border-radius: 24px;
+  transition: 0.25s;
+  cursor: pointer;
+}
+.my-form input[type = "text"]:hover{
+  background: #75a8e2;
+}
+.my-form textarea:hover{
+  background: #75a8e2;
+}
+.my-form input[type = "submit"]:hover{
+  background: #75a8e2;
+}
+
+.my-form textarea{
+  justify-content: center;
+  justify-items: center;
+  padding: 10px;
+  width: 100%;
+  display: block;
+  border-radius: 24px;
+  border: 2px solid #1882c8;
+  background:#aab9ff ;
+  text-align: center;
+
+}
+.my-form input[type = "text"]{
+  background: #75a8e2;
+  justify-content: center;
+  justify-items: center;
+  padding: 10px;
+  width: 100%;
+  display: block;
+  border-radius: 24px;
+  border: 2px solid #1882c8;
+  background:#aab9ff ;
+  text-align: center;
+
+}
+
+
